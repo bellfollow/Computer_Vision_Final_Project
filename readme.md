@@ -53,3 +53,11 @@ def compare_f(a1, a2):
 → if results.multi_hand_landmarks: 블록 안에서만 참조하도록 수정 필요.
 
 
+## 시연 영상
+
+
+
+https://github.com/user-attachments/assets/9c4e0ac0-2770-4f58-b439-0d5ebc04c04a
+
+
+
