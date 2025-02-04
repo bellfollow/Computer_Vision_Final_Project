@@ -21,6 +21,7 @@ def compare_f(a1, a2):
     a = hand_landmarks.landmark[a1].y
     b = hand_landmarks.landmark[a2].y
     return a < b
+```
 
 - 손의 랜드마크 중 두 개(a1, a2)를 비교하여 첫 번째 값이 더 위쪽에 있는지 확인합니다.
 - 이를 이용해 손가락이 펴졌는지, 접혔는지를 판별할 수 있습니다.
